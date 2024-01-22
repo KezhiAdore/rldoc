@@ -70,6 +70,10 @@ export default defineConfig({
       label: '页面导航'
     },
 
+    search: {
+      provider: 'local'
+    },
+
     langMenuLabel: '多语言',
     returnToTopLabel: '回到顶部',
     sidebarMenuLabel: '菜单',

@@ -10,9 +10,6 @@ hero:
     - theme: brand
       text: 快速开始
       link: /start
-    - theme: alt
-      text: 资源查询
-      link: /resource
 
 features:
   - title: 多看论文
