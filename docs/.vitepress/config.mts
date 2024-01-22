@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Resource', link: '/resource' }
+      { text: 'Kezhi\'s Blog', link: 'https://www.kezhi.tech'},
     ],
 
     sidebar: [
