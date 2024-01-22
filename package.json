@@ -1,0 +1,16 @@
+{
+  "name": "rldoc",
+  "version": "1.0.0",
+  "description": "一份与深度强化学习相关的文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Yu Zhao",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  }
+}
