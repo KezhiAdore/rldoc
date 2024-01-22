@@ -26,6 +26,9 @@
 - [安装和配置Visual Studio Code 以进行Python 开发- Training](https://learn.microsoft.com/zh-cn/training/paths/python-partnership/)
 - [VSCode Python Tutorial](https://code.visualstudio.com/docs/languages/python)
 
+在数据处理方面，`Pandas`是Python数据处理的重要程序包，其著名的数据结构`DateFrame`拥有类似数据库型式的index和column，可以极大的方便数据分析和数据处理工作，可以参考如下教程学习：
+
+- [joyful-pandas](https://github.com/datawhalechina/joyful-pandas)
 ## 学习深度学习基本知识
 
 这一部分内容推荐阅读*深度学习*（花书）或者*机器学习*（西瓜书）来进行学习，可以配合以下代码仓库来学习：
