@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "RL指南"
+  name: "RL学习指南"
   text: "一个关于深度强化学习的指南文档"
-  tagline: My great project tagline
+  tagline: practice makes perfect
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速开始
+      link: /start
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 资源查询
+      link: /resource
 
 features:
   - title: Feature A
