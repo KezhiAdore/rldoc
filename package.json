@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "author": "Yu Zhao",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^2.0.0-rc.0"
+    "vitepress": "^1.0.0-rc.39"
   }
 }
