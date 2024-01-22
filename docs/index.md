@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "RL学习指南"
-  text: "一个关于深度强化学习的入门学习"
+  text: "一个关于深度强化学习的入门学习指南"
   tagline: practice makes perfect
   actions:
     - theme: brand
